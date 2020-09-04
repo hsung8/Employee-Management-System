@@ -44,11 +44,11 @@ Design the following database schema containing three tables:
 
 Build a command-line application that at a minimum allows the user to:
 
-  * Add and view departments, roles, employees: please click ![here](https://drive.google.com/file/d/1EWXLg5gu0SpWN6PNMzNYg5wRKrcfljx_/view?usp=sharing) to see demo video.
+  * Add and view departments, roles, employees: please click [here](https://drive.google.com/file/d/1EWXLg5gu0SpWN6PNMzNYg5wRKrcfljx_/view?usp=sharing) to see demo video.
 
-  * Update employee's roles: please click ![here](https://drive.google.com/file/d/16IQO9KG3gq4xUi8GZR3nVbqXPMpvB4lY/view?usp=sharing)
+  * Update employee's roles: please click [here](https://drive.google.com/file/d/16IQO9KG3gq4xUi8GZR3nVbqXPMpvB4lY/view?usp=sharing)
 
-  * Update employee's manager: please click ![here](https://drive.google.com/file/d/1q6r9YvZJHGFfaueR2Ffht8uZ0cXqYTC_/view?usp=sharing)
+  * Update employee's manager: please click [here](https://drive.google.com/file/d/1q6r9YvZJHGFfaueR2Ffht8uZ0cXqYTC_/view?usp=sharing)
 
 ## Requirements
 
