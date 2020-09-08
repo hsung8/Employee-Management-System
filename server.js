@@ -178,7 +178,6 @@ function addEmp() {
             if (err) throw err;
             console.log("\nSuccessfully added!-----------------------\n");
             showAll()
-            runEmp();
         })
     })
 }
@@ -203,7 +202,6 @@ function deleteEmp() {
                 if (err) throw err;
                 console.log(`\n${answer.employee} is removed from DB --------------\n`);
                 showAll()
-                runEmp();
             });
         });
     });
@@ -232,7 +230,6 @@ function updateEmpRole() {
                 if (err) throw err;
                 console.log(`\n${answer.firstName}'s role is updated -----------------\n`);
                 showAll()
-                runEmp();
             });
         });
 }
@@ -259,7 +256,6 @@ function updateEmpMng() {
                 if (err) throw err;
                 console.log(`\n${answer.firstName}'s manager is updated -----------------\n`)
                 showAll()
-                runEmp();
             });
         });
 }
